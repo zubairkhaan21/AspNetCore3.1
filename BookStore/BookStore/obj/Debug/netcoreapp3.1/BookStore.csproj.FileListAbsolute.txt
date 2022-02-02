@@ -8,7 +8,6 @@ C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\bin\Debug\netcorea
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.dll
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.pdb
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
@@ -22,13 +21,6 @@ C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcorea
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.input.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.output.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorCoreGenerate.cache
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cs
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.Views.pdb
@@ -36,3 +28,10 @@ C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcorea
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
 C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CopyComplete
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\zubamuh02\source\repos\BookStore\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
